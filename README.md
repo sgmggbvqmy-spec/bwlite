@@ -21,6 +21,8 @@ server. Anything that only exists on a Mac (the interface, the keychain, certifi
 
 ![BwLite screenshot 3](screenshot/unlock_ui_3.png)
 
+![BwLite screenshot 4](screenshot/generator_ui.png)
+
 ## Features
 
 - Sidebar in sections: All and TOTP (a list of verification codes with a countdown ring), Type (Login, Card, Identity, Secure Note, SSH Key, Bank Account, Driver's License, Passport), Folders, and Hidden Items (Archive, Deleted); search
